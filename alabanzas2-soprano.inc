@@ -13,32 +13,32 @@
 		\key d \major
                 \skip 1 
                 R1*4  |
-                d'' 8 d'' d'' d'' ~ \stemDown d'' \stemNeutral a' 4.  |
+                d'' 8 d'' d'' d'' ~ d'' a' 4.  |
                 e'' 4 fis'' 8 e'' 4. r4  |
                 d'' 8 d'' d'' d'' ~ d'' a' 4 d'' 8  |
                 e'' 8 e'' fis'' e'' 4. r4  |
 %% 10
-                d'' 8 d'' d'' d'' ~ \stemDown d'' \stemNeutral a' 4 d'' 8  |
+                d'' 8 d'' d'' d'' ~ d'' a' 4 d'' 8  |
                 e'' 4 fis'' 8 e'' 4. fis'' 4  |
                 g'' 4. fis'' d'' 4  |
                 e'' 2 ~ e'' 4 r  |
-                d'' 8 d'' d'' d'' ~ \stemDown d'' \stemNeutral a' 4.  |
+                d'' 8 d'' d'' d'' ~ d'' a' 4.  |
 %% 15
                 e'' 4 fis'' 8 e'' 4. r4  |
                 d'' 8 d'' d'' d'' ~ d'' a' 4 d'' 8  |
                 e'' 8 e'' fis'' e'' 4. r4  |
-                d'' 8 d'' d'' d'' ~ \stemDown d'' \stemNeutral a' 4 d'' 8  |
+                d'' 8 d'' d'' d'' ~ d'' a' 4 d'' 8  |
                 e'' 4 fis'' 8 e'' 4. fis'' 4  |
 %% 20
                 g'' 4. fis'' d'' 4  |
                 e'' 1  |
                 r2 fis'' 4 g''  |
-                a'' 4 \stemDown d'' 8 \stemNeutral d'' 4 d'' d'' 8 ~  |
+                a'' 4 d'' 8 d'' 4 d'' d'' 8 ~  |
                 d'' 2. e'' 8 fis''  |
 %% 25
                 g'' 4 a'' 8 g'' 4 fis'' fis'' 8 ~  |
                 fis'' 8 e'' 4 r8 fis'' 4 g''  |
-                a'' 4 \stemDown d'' 8 \stemNeutral d'' 4 d'' d'' 8 ~  |
+                a'' 4 d'' 8 d'' 4 d'' d'' 8 ~  |
                 d'' 2. e'' 8 fis''  |
                 g'' 4 a'' 8 g'' 4 fis'' fis'' 8 ~  |
 %% 30
@@ -50,12 +50,12 @@
 %% 35
                 d'' 1 ~  |
                 d'' 4 r fis'' g''  |
-                a'' 4 \stemDown d'' 8 \stemNeutral d'' 4 d'' d'' 8 ~  |
+                a'' 4 d'' 8 d'' 4 d'' d'' 8 ~  |
                 d'' 2. e'' 8 fis''  |
                 g'' 4 a'' 8 g'' 4 fis'' fis'' 8 ~  |
 %% 40
                 fis'' 8 e'' 4 r8 fis'' 4 g''  |
-                a'' 4 \stemDown d'' 8 \stemNeutral d'' 4 d'' d'' 8 ~  |
+                a'' 4 d'' 8 d'' 4 d'' d'' 8 ~  |
                 d'' 2. e'' 8 fis''  |
                 g'' 4 a'' 8 g'' 4 fis'' fis'' 8 ~  |
                 fis'' 8 e'' 4. a'' 4 g''  |

@@ -13,21 +13,21 @@
 		\key d \major
                 \skip 1
                 R1*4  |
-                d'' 8 d'' d'' d'' ~ \stemDown d'' \stemNeutral a' 4.  |
+                d'' 8 d'' d'' d'' ~ d'' a' 4.  |
                 e'' 4 fis'' 8 e'' 4. r4  |
                 d'' 8 d'' d'' d'' ~ d'' a' 4 d'' 8  |
                 e'' 8 e'' fis'' e'' 4. r4  |
 %% 10
-                d'' 8 d'' d'' d'' ~ \stemDown d'' \stemNeutral a' 4 d'' 8  |
+                d'' 8 d'' d'' d'' ~ d'' a' 4 d'' 8  |
                 e'' 4 fis'' 8 e'' 4. fis'' 4  |
                 g'' 4. fis'' d'' 4  |
                 e'' 2 ~ e'' 4 r  |
-                d'' 8 d'' d'' d'' ~ \stemDown d'' \stemNeutral a' 4.  |
+                d'' 8 d'' d'' d'' ~ d'' a' 4.  |
 %% 15
                 e'' 4 fis'' 8 e'' 4. r4  |
                 d'' 8 d'' d'' d'' ~ d'' a' 4 d'' 8  |
                 e'' 8 e'' fis'' e'' 4. r4  |
-                d'' 8 d'' d'' d'' ~ \stemDown d'' \stemNeutral a' 4 d'' 8  |
+                d'' 8 d'' d'' d'' ~ d'' a' 4 d'' 8  |
                 e'' 4 fis'' 8 e'' 4. fis'' 4  |
 %% 20
                 g'' 4. fis'' d'' 4  |
@@ -36,11 +36,11 @@
                 a'' 1  |
                 a'' 1  |
 %% 25
-                g'' 2. b'' 8 \stemDown b'' ~ \stemNeutral  |
+                g'' 2. b'' 8 b'' ~  |
                 b'' 8 a'' 4. fis'' 4 g''  |
                 a'' 1  |
                 a'' 1  |
-                g'' 2. b'' 8 \stemDown b'' ~ \stemNeutral  |
+                g'' 2. b'' 8 b'' ~  |
 %% 30
                 b'' 8 a'' 4. a'' 4 g''  |
                 fis'' 4 fis'' 8 g'' 4 a'' b'' 8 ~  |
@@ -52,12 +52,12 @@
                 d'' 4 r fis'' g''  |
                 a'' 1  |
                 a'' 1  |
-                g'' 2. b'' 8 \stemDown b'' ~ \stemNeutral  |
+                g'' 2. b'' 8 b'' ~  |
 %% 40
                 b'' 8 a'' 4. fis'' 4 g''  |
                 a'' 1  |
                 a'' 1  |
-                g'' 2. b'' 8 \stemDown b'' ~ \stemNeutral  |
+                g'' 2. b'' 8 b'' ~  |
                 b'' 8 a'' 4. a'' 4 g''  |
 %% 45
                 fis'' 4 fis'' 8 g'' 4 a'' b'' 8 ~  |
