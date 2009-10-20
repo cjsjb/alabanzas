@@ -22,8 +22,8 @@ globalTempo = {
 
 	\include "alabanzas2-acordes.inc"
 	\include "alabanzas2-ritmo.inc"
-	\include "alabanzas2-vozmujeres.inc"
-	\include "alabanzas2-vozadan.inc"
+	\include "alabanzas2-soprano.inc"
+	\include "alabanzas2-tenor.inc"
 	\include "alabanzas2-violin.inc"
 
     >> % notes
