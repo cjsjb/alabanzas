@@ -11,7 +11,9 @@
                 \override MultiMeasureRest #'expand-limit = 1
 
 		\key d \major
+		\clef "treble_8"
                 \skip 1
+	\transpose c''' c' {
                 R1*4  |
                 d'' 8 d'' d'' d'' ~ d'' a' 4.  |
                 e'' 4 fis'' 8 e'' 4. r4  |
@@ -68,6 +70,7 @@
 %% 50
                 R1  |
                 \bar "|."
+	}
             } % Voice
             \lyricsto "voice 3" \new Lyrics \lyricmode {
                 "És-" "te_es" "el" "dí-" "a" "y_el" "lu-" "gar,"
