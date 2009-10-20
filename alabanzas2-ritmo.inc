@@ -1,5 +1,6 @@
-        \context RhythmicStaff = "Ritmo" << 
+        \context RhythmicStaff = "Ritmo" <<
             \set Staff.instrumentName = "Guitarra"
+            \set Staff.shortInstrumentName = "G."
             \set Score.skipBars = ##t
             \set Staff.printKeyCancellation = ##f
             \new Voice \global
