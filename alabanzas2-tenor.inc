@@ -73,24 +73,24 @@
 	}
             } % Voice
             \lyricsto "voice 3" \new Lyrics \lyricmode {
-                "És-" "te_es" "el" "dí-" "a" "y_el" "lu-" "gar,"
-		"Dios" "es-" "tá_a-" "quí" "y" "te" "quie-" "re" "ha-" "blar."
-		"A-" "bre" "las" "puer-" "tas" "y_es-" "cú-" "cha-" "lo,"
-		"y" "dé-" "ja-" "lo_en-" "-trar."
+		"És" -- "te es" "el" "dí" -- "a" "y el" "lu" -- "gar,"
+		"Dios" "es" -- "tá a" -- "quí" "y" "te" "quie" -- "re" "ha" -- "blar."
+		"A" -- "bre" "las" "puer" -- "tas" "y es" -- "cú" -- "cha" -- "lo,"
+		"y" "dé" -- "ja" -- "lo en" -- "trar."
 		%
-		"És-" "te_es" "el" "dí-" "a" "y_el" "lu-" "gar,"
-		"Dios" "es-" "tá_a-" "quí" "y" "te" "quie-" "re" "a-" "mar."
-		"Da-" "le" "tu" "vi-" "da_y" "tu" "co-" "ra-" "zón,"
-		"y_em-" "-pie-" "za_a-" "can-" "-tar."
+		"És" -- "te es" "el" "dí" -- "a" "y el" "lu" -- "gar,"
+		"Dios" "es" -- "tá a" -- "quí" "y" "te" "quie" -- "re" "a" -- "mar."
+		"Da" -- "le" "tu" "vi" -- "da y" "tu" "co" -- "ra" -- "zón,"
+		"y em" -- "pie" -- "za a" -- "can" -- "tar."
 		%
-		"A-" "la-" "-ban-" "-zas," "a-" "la-" "ban-" "-zas."
-		"A-" "la-" "-ban-" "-zas," "a-" "la-" "ban-" "-zas."
-		"Y" "dar" "gra-" "cias" "al" "Se-" "ñor" "nues-" "tro" "Dios"
-		"por" "su" "a-" "-mor."
+		"A" -- "la" -- "ban" -- "zas," "a" -- "la" -- "ban" -- "zas."
+		"A" -- "la" -- "ban" -- "zas," "a" -- "la" -- "ban" -- "zas."
+		"Y" "dar" "gra" -- "cias" "al" "Se" -- "ñor" "nues" -- "tro" "Dios"
+		"por" "su" "a" -- "mor."
 		%
-		"A-" "la-" "-ban-" "-zas," "a-" "la-" "ban-" "-zas."
-		"A-" "la-" "-ban-" "-zas," "a-" "la-" "ban-" "-zas."
-		"Y" "dar" "gra-" "cias" "al" "Se-" "ñor" "nues-" "tro" "Dios"
-		"por" "su" "a-" "-mor." 
+		"A" -- "la" -- "ban" -- "zas," "a" -- "la" -- "ban" -- "zas."
+		"A" -- "la" -- "ban" -- "zas," "a" -- "la" -- "ban" -- "zas."
+		"Y" "dar" "gra" -- "cias" "al" "Se" -- "ñor" "nues" -- "tro" "Dios"
+		"por" "su" "a" -- "mor."
              } % Lyrics
         >> % Staff
