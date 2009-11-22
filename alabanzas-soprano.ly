@@ -21,8 +21,8 @@ globalTempo = {
 		% force offset of colliding notes in chords:
 		\override Score.NoteColumn #'force-hshift = #1.0
 
-		\include "alabanzas2-acordes.inc"
-		\include "alabanzas2-soprano.inc"
+		\include "alabanzas-acordes.inc"
+		\include "alabanzas-soprano.inc"
 
 	>> % notes
 
