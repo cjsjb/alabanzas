@@ -9,7 +9,7 @@
 		d1 a1 g1 a1
 		% este es el dia y el lugar...
 		d1 a1 g1 a1
-		d1 a1 g1 a1 a1
+		d1 a1 g1 a1 a1:7
 
 		% alabanzas al sennor...
 		d1 b1:m g1 a1
