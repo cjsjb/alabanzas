@@ -22,13 +22,15 @@ globalTempo = {
     \tempo 4 = 150  \skip 1*50 
 }
 \score {
-    \new StaffGroup <<
+    <<
         % force offset of colliding notes in chords:
         \override Score.NoteColumn #'force-hshift = #1.0
 
 	\include "alabanzas-acordes.inc"
-	\include "alabanzas-soprano.inc"
-	\include "alabanzas-tenor.inc"
+        \new StaffGroup <<
+		\include "alabanzas-soprano.inc"
+		\include "alabanzas-tenor.inc"
+	>>
 	\include "alabanzas-violin.inc"
 	\include "alabanzas-ritmo.inc"
 
