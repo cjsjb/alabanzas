@@ -29,12 +29,13 @@ globalTempo = {
 	\include "alabanzas-acordes.inc"
         \new StaffGroup <<
 		\include "alabanzas-soprano.inc"
+		\include "alabanzas-mezzo.inc"
 		\include "alabanzas-tenor.inc"
 	>>
 	\include "alabanzas-violin.inc"
-	\include "alabanzas-ritmo.inc"
+	%\include "alabanzas-ritmo.inc"
 
     >> % notes
 
-    \layout { }
+    \layout { \context { \RemoveEmptyStaffContext } }
 } % score
