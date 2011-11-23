@@ -22,7 +22,7 @@
 		e' 4 fis' 8 e' 4 r8 fis' 4  |
 		g' 4. fis' d' 4  |
 		e' 2 ~ e' 4 r  |
-		e' 8 d' d' d' ~ d' a 4.  |
+		d' 8 d' d' d' ~ d' a 4.  |
 %% 15
 		e' 4 fis' 8 e' 4. r4  |
 		d' 8 d' d' d' ~ d' 4 a 8 d'  |
