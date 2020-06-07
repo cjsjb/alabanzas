@@ -42,9 +42,9 @@
 		a 1  |
 		g 2. b 8 b ~  |
 %% 30
-		b 8 a r4 a g  |
-		fis 4 fis 8 g 4 a b 8 ~  |
-		b 4 r fis e  |
+		b 8 a r4 fis g  |
+		a 4 a 8 b 4 cis' d' 8 ~  |
+		d' 4 r fis e  |
 		d 1  |
 		r4 fis fis e  |
 %% 35
@@ -58,10 +58,10 @@
 		a 1  |
 		a 1  |
 		g 2. b 8 b ~  |
-		b 8 a r4 a g  |
+		b 8 a r4 fis g  |
 %% 45
-		fis 4 fis 8 g 4 a b 8 ~  |
-		b 4 r fis e  |
+		a 4 a 8 b 4 cis' d' 8 ~  |
+		d' 4 r fis e  |
 		d 1  |
 		r4 fis fis e  |
 		d 1  |
