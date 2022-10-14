@@ -69,7 +69,7 @@
 		R1  |
 		\bar "|."
 	} % Voice
-	\lyricsto "voz-mezzo" \new Lyrics \lyricmode {
+	\new Lyrics \lyricsto "voz-mezzo" {
 		"És" -- "te es" "el" "dí" -- "a" "y el" "lu" -- "gar,"
 		"Dios" "es" -- "tá a" -- "quí" "y" "te" "quie" -- "re" "ha" -- "blar."
 		"A" -- "bre" "las" "puer" -- "tas" "y es" -- "cú" -- "cha" -- "lo,"
