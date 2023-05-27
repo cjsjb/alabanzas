@@ -5,6 +5,7 @@
 \header {
 	title = "Alabanzas al Señor"
 	tagline = "Coro Juvenil San Juan Bosco"
+	composer = "Eduardo Ortiz Tirado Kelly"
 	instrument = "Mezzosoprano"
 }
 #(set-global-staff-size 20)
