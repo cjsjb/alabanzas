@@ -17,7 +17,7 @@
 
 		\time 4/4
 		\clef "treble"
-		\key c \major
+		\key d \major
 
 		R1*5  |
 		d' 8 d' d' d' ~ d' a 4.  |
