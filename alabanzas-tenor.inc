@@ -70,7 +70,8 @@
 %% 50
 		R1  |
 		\bar "|."
-	} % Voice
+	}
+
 	\new Lyrics \lyricsto "voz-tenor" {
 		"És" -- "te es" "el" "dí" -- "a" "y el" "lu" -- "gar,"
 		"Dios" "es" -- "tá a" -- "quí" "y" "te" "quie" -- "re" "ha" -- "blar."
@@ -91,5 +92,5 @@
 		"A" -- "la" -- "ban" -- "zas," "a" -- "la" -- "ban" -- "zas."
 		"Y" "dar" "gra" -- "cias" "al" "Se" -- "ñor" __ "nues" -- "tro" "Dios"
 		"por" "su" "a" -- "mor."
-	 } % Lyrics
->> % Staff
+	 }
+>>

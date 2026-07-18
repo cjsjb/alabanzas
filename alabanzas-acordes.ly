@@ -96,7 +96,7 @@
 		d' 1  |
 %% 50
 		R1  |
-	} % Voice
+	}
 	\new Lyrics %\with {
 		%\override VerticalAxisGroup.staff-affinity = ##f
 		%\override LyricText.parent-alignment-X = #LEFT
@@ -122,5 +122,5 @@
 		"A" -- "la" -- "ban" -- "zas" "al" "Se" -- "ñor," __ "por" "la" "vi" -- "da y" "su" "pa" -- "la" -- "bra."
 		"Y" "dar" "gra" -- "cias" "al" "Se" -- "ñor" __ "nues" -- "tro" "Dios"
 		"por" "su" "a" -- "mor."
-	 } % Lyrics
+	 }
 >> % Staff
